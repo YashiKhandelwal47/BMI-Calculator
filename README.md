@@ -1,2 +1,3 @@
 # BMI-Calculator
-This is BMI calculator
+This is BMI calculator.
+
